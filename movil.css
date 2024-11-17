@@ -1,0 +1,13 @@
+nav ul li a {
+    padding: 0.5em;
+    background: none; /* No se muestran iconos */
+}
+
+#contenido {
+    width: 100%;
+}
+
+#contenido img {
+    width: 100%;
+    height: auto;
+}
